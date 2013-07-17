@@ -9,3 +9,8 @@ Installation
 ------------
 
 In Chrome, choose Window > Extensions.  Drag ZimmermanToButt.crx into the page that appears.
+
+Screenshot
+------------
+
+http://o7.no/1aOcZwu
